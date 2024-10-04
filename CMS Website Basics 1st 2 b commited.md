@@ -1,5 +1,3 @@
-'''
-This is code
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,12 +10,9 @@ This is code
 	  font-famoly: Arial, Helvetica, sans-serif;
 	  }
 	  </style>
-	  </head>
-	  <body>
-	  
-	<h1> My Website</h1>
-	<p> A website created by me.
-	</p>
-	</body>
-	</html>
-"'
+  </head>
+<body>
+<h1> My Website</h1>
+<p> A website created by me.</p>
+</body>
+</html>
